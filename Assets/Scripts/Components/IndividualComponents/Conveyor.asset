@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6272c1576e5f7f646b90e9c33d912863, type: 3}
+  m_Name: Conveyor
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryComponentData
+  id: Conveyor
+  component:
+    name: Conveyor
+    price: 5
+    rotationSpriteSets:
+    - tileSprites:
+      - {fileID: -6534796897722215127, guid: 0195ae1be2cf7f545b679aaf93c78990, type: 3}
+    - tileSprites:
+      - {fileID: -8515166688739659301, guid: feedc0be23486dd40a88b59b635aae86, type: 3}
+    - tileSprites:
+      - {fileID: -7163907437550362612, guid: d799f59b3cfcdef46b3123759abbb390, type: 3}
+    - tileSprites:
+      - {fileID: -8110834918004555579, guid: 406f83163136a9d499614cb8b4419d4a, type: 3}
+  defaultRotationIndex: 3
+  type: 0
+  footprintCells:
+  - {x: 0, y: 0}
+  logicInputTiles: []

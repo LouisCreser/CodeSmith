@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6272c1576e5f7f646b90e9c33d912863, type: 3}
+  m_Name: Sensor
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryComponentData
+  id: Sensor
+  component:
+    name: Sensor
+    price: 20
+    rotationSpriteSets:
+    - tileSprites:
+      - {fileID: 7548846176669597060, guid: b6c0c014f04b5fa4ea437ca916d55a7b, type: 3}
+    - tileSprites:
+      - {fileID: 5792454114511214250, guid: 481e9d5c94b02c246a36804f1795f2f3, type: 3}
+    - tileSprites:
+      - {fileID: 1229179441482457651, guid: 109b31f82430d4a45a853074025c02a0, type: 3}
+    - tileSprites:
+      - {fileID: 5505303897440526203, guid: 7d6a22830ca55194f8c8acb649baeaa4, type: 3}
+  defaultRotationIndex: 0
+  type: 8
+  footprintCells:
+  - {x: 0, y: 0}
+  logicInputTiles: []

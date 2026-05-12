@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6272c1576e5f7f646b90e9c33d912863, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryComponentData
+  id: Furnace
+  component:
+    name: Furnace
+    price: 50
+    rotationSpriteSets:
+    - tileSprites:
+      - {fileID: 5372846829257560143, guid: 3edf330b863adfb46ae5b0f07a94bb1a, type: 3}
+    - tileSprites:
+      - {fileID: -4004679606805563158, guid: bd3e81463f567534eaeb62acbe75bee4, type: 3}
+    - tileSprites:
+      - {fileID: -2931690715276956991, guid: edce28e7d2456584485269fba5e8135e, type: 3}
+    - tileSprites:
+      - {fileID: -7008094570358549754, guid: 477772d181691f04d945b1bde963a3a6, type: 3}
+  defaultRotationIndex: 3
+  type: 1
+  footprintCells:
+  - {x: 0, y: 0}
+  logicInputTiles:
+  - {x: 0, y: 0}

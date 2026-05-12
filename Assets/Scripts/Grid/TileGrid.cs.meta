@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1ee0b5d494d9d1347950176fa564ea3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridLayout: {instanceID: 0}
+  - gridRect: {instanceID: 0}
+  - tilePrefab: {instanceID: 0}
+  - aspectFitter: {instanceID: 0}
+  - wireSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

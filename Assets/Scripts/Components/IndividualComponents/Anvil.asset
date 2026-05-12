@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6272c1576e5f7f646b90e9c33d912863, type: 3}
+  m_Name: Anvil
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryComponentData
+  id: Anvil
+  component:
+    name: Anvil
+    price: 50
+    rotationSpriteSets:
+    - tileSprites:
+      - {fileID: -1592936249046856553, guid: b6dab0bca52475048a0ae5a36e93d741, type: 3}
+      - {fileID: 2753694058169693413, guid: 61598c056463a224f9f50763cec44111, type: 3}
+    - tileSprites:
+      - {fileID: 5032697069428966665, guid: 3ff7f61c65f32eb48b8b442a3151fe2e, type: 3}
+      - {fileID: -3875013969964964627, guid: 000e5b59a2e808f4a8456b8ed7be6d2e, type: 3}
+    - tileSprites:
+      - {fileID: 4363995637848144420, guid: 8cb80831788d9d34da2d55a6c5a6e2f7, type: 3}
+      - {fileID: 8069815643409894140, guid: 78a45a845dbe381449018e9583d0fddd, type: 3}
+    - tileSprites:
+      - {fileID: -8359071227542316978, guid: 30dd5fdc2d6e5e642a084fbada583b97, type: 3}
+      - {fileID: -3445247270469916531, guid: 951a11223b11aa7409b67a7b4f5650e4, type: 3}
+  defaultRotationIndex: 3
+  type: 5
+  footprintCells:
+  - {x: 0, y: 0}
+  - {x: -1, y: 0}
+  logicInputTiles:
+  - {x: 0, y: 0}
+  - {x: -1, y: 0}

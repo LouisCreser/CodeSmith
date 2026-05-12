@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6272c1576e5f7f646b90e9c33d912863, type: 3}
+  m_Name: Button
+  m_EditorClassIdentifier: Assembly-CSharp::FactoryComponentData
+  id: Button
+  component:
+    name: Button
+    price: 0
+    rotationSpriteSets:
+    - tileSprites:
+      - {fileID: 649223268058989734, guid: 2e96ea8792ba0d94089bcf0b07f426ba, type: 3}
+    - tileSprites:
+      - {fileID: 649223268058989734, guid: 2e96ea8792ba0d94089bcf0b07f426ba, type: 3}
+    - tileSprites:
+      - {fileID: 649223268058989734, guid: 2e96ea8792ba0d94089bcf0b07f426ba, type: 3}
+    - tileSprites:
+      - {fileID: 649223268058989734, guid: 2e96ea8792ba0d94089bcf0b07f426ba, type: 3}
+  defaultRotationIndex: 3
+  type: 6
+  footprintCells:
+  - {x: 0, y: 0}
+  logicInputTiles: []

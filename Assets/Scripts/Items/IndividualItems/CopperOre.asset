@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 498d16d18d4fcbb4e9f1854a75589775, type: 3}
+  m_Name: CopperOre
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: CopperOre
+  displayName: Copper Ore
+  sprite: {fileID: -5780904505571354112, guid: 5647923cc0890f84d9f30fc0c448776f, type: 3}

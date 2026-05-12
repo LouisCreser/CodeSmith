@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbcfdf3a99643b478df7f6b00823525, type: 3}
+  m_Name: 4-1
+  m_EditorClassIdentifier: Assembly-CSharp::ManualData
+  manualId: 3-1
+  displayName: End of Demo
+  message: 'Thank you for playing CodeSmith!
+
+    Levels 4-8 can be used for testing
+    or just to play around :)
+
+    All ask for Copper Knives as the output.
+
+    I
+    hope you enjoyed your time!'
+  unlockPrice: 0

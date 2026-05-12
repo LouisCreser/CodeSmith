@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f632fdce7aac8c3418ea87750c945c13, type: 3}
+  m_Name: Registry
+  m_EditorClassIdentifier: Assembly-CSharp::LevelRegistry
+  levels:
+  - {fileID: 11400000, guid: e1f47423a58659543a976ee4a3ed4a1e, type: 2}
+  - {fileID: 11400000, guid: 52359d0ef81101848a5842ea680a93c5, type: 2}
+  - {fileID: 11400000, guid: 726e2182fccdd0045b1aef3a3369d648, type: 2}
+  - {fileID: 11400000, guid: 0df4c4f83f69dff42bf07ddc7ab0fb7b, type: 2}
+  - {fileID: 11400000, guid: 46e036086529bf1419d96098ff93a1e7, type: 2}
+  - {fileID: 11400000, guid: dbc13dc00cff2cf42b8cd2e01eebc8c6, type: 2}
+  - {fileID: 11400000, guid: 5c1623e2cb0fb2c4ba962a48391586e2, type: 2}
+  - {fileID: 11400000, guid: df0472a01621ccc46804e41c0495bda5, type: 2}

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cacd06bcf8a4fc845848d678efce965e, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelId: 1
+  displayName: Your First Factory
+  sceneName: Level1
+  unlockedByDefault: 1
+  targetItemId: CopperBar
+  targetItemValue: 5
+  minimumTargetItemsForSuccess: 10
+  firstCompletionRewardBits: 300
+  componentBasePriceMultiplier: 1
+  shopEntries:
+  - {fileID: 11400000, guid: ca9f90a29c9bce74eb78323e3c140e78, type: 2}
+  - {fileID: 11400000, guid: 78be818ed975e8b4e8c80c7db5642c7e, type: 2}
+  - {fileID: 11400000, guid: 686346ae9f31e8b48a406cbb5a42c1ae, type: 2}
+  - {fileID: 11400000, guid: 56d982d0532c9a5479bc2f2351c92566, type: 2}
+  manualEntries:
+  - {fileID: 11400000, guid: 99a153d00606b3646bd82bb88a84d30d, type: 2}
+  - {fileID: 11400000, guid: ee3eb3f4f7d5b994a86bc5d1c7bb23e3, type: 2}
+  - {fileID: 11400000, guid: 5fad8ee3604d7424fb6c88d513c19856, type: 2}
+  - {fileID: 11400000, guid: c302641a72c613b4db5386f51e97ea7b, type: 2}
+  - {fileID: 11400000, guid: da11c7af40229f14287d7e126e7134fb, type: 2}
+  startingStoredComponents:
+  - componentData: {fileID: 11400000, guid: ca9f90a29c9bce74eb78323e3c140e78, type: 2}
+    amount: 7
+  - componentData: {fileID: 11400000, guid: 78be818ed975e8b4e8c80c7db5642c7e, type: 2}
+    amount: 1
+  - componentData: {fileID: 11400000, guid: 686346ae9f31e8b48a406cbb5a42c1ae, type: 2}
+    amount: 1
+  supplyBoxes:
+  - componentId: SupplyBox
+    anchor: {x: 0, y: 2}
+    rotationIndex: 3
+    supplyItemId: CopperOre
+  outputBinComponentId: OutputBin
+  outputBinAnchor: {x: 9, y: 2}
+  outputBinRotationIndex: 1
+  startSignalComponentId: StartSignal
+  startSignalAnchor: {x: 0, y: 0}
+  startSignalRotationIndex: 0
