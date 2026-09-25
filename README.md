@@ -86,4 +86,4 @@ Saved information includes player currency, level progression, stored components
 
 CodeSmith was developed as a final-year university project exploring how factory automation gameplay can introduce programming-related problem-solving concepts to beginners. Rather than teaching programming syntax directly, the game encourages players to explore sequencing, conditional logic, debugging, and optimisation by designing and refining visual production systems.
 
-![CodeSmith gameplay demonstration](assets/CodeSmithGif.gif)
+![CodeSmith gameplay demonstration](Assets/CodeSmithGif.gif)
